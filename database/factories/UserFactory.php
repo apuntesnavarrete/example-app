@@ -1,5 +1,5 @@
 <?php
-
+//tiene la estructura incial de datos falsos factory
 namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
